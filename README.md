@@ -35,4 +35,15 @@ This repository contains a collection of simple Python projects for learning and
 
 ---
 
+### 4. Sonar Treasure Hunt (`sonar.py`)
+- **Description**: A command-line game where the player uses sonar devices to locate sunken treasure chests at the bottom of the ocean.
+- **Features**:
+  - Randomly generated ocean board with treasure chests.
+  - Sonar devices detect the distance (not direction) to the nearest chest.
+  - Players collect all chests using a limited number of sonar devices.
+  - Includes instructions and an interactive gameplay loop.
+- **How to Run**: Execute the script in Python, and follow the prompts to locate the treasure chests.
+
+---
+
 Each file is self-contained and can be executed independently.
